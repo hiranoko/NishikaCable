@@ -1,0 +1,15 @@
+HDMI
+USB_Mini
+Dock
+Lightning
+USB_Micro_B
+Mini_DisplayPort
+RJ_45
+USB_Type_A
+USB_Type_C
+USB_Micro_B_3.1
+USB_Type_B
+Lightning_T
+USB_Micro_B_W
+VGA
+DisplayPort
